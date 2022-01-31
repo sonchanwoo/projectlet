@@ -22,3 +22,7 @@
 	</div>
 </div>
 ```
+
+```javascript
+$("#myModal").modal("show");
+```
